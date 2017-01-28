@@ -7,6 +7,7 @@ Hello, my name is Lena Tran. I like CS even though it sometimes makes me want to
 <li> cook </li>
 <li> sleep </li>
 <li> not cry </li>
+</ul>
 
 
 me every sunday night:<br>
