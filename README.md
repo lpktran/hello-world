@@ -6,7 +6,7 @@ Hello, my name is Lena Tran. I like CS even though it sometimes makes me want to
 <ul> things I like to do when I am not diligently coding:
 <li> cook </li>
 <li> sleep </li>
-<li> not cry </li>
+<li> see sunlight </li>
 </ul>
 
 
