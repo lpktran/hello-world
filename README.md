@@ -13,5 +13,6 @@ Hello, my name is Lena Tran. I like CS even though it sometimes makes me want to
 me every sunday night:<br>
  <img src="https://thumbs.dreamstime.com/t/working-project-young-programmer-headphones-new-69422688.jpg"> <br>
 me every monday night:
+<br> <img src="http://www.smartcookielearning.com/wp-content/uploads/2011/05/happy-student.jpg"> <br>
 
 
